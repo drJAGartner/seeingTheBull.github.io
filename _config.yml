@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dr. Joseph A. Gartner"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "A small site to collect my thoughts and projects."
   links:
     - label: "Twitter"
