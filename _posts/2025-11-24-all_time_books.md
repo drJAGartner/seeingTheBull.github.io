@@ -47,6 +47,7 @@ I love reading<sup>[1]</sup>.  I get a lot out of reading from entertainment to 
   <li><b>Being Mortal</b> by Atul Gawande</li>
   <li><b>A Million Miles in a Thousand Years</b> by Donald Miller</li>
   <li><b>Tribe</b> by Sebastian Junger</li>
+  <li><b>Ego is the Enemy</b> by Ryan Holiday</li>
 </ul>
 
 <h2>Honorable Mentions</h2>
